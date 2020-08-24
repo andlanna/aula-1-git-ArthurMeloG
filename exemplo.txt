@@ -6,3 +6,26 @@ Ela ainda vai apresentar a utilização do serviço GitHub.
 
 Repositório do exemplo: https://github.com/andrelanna/aula1-oo.git
 
+Questão 1:
+
+Git Init: Inicia um repositório
+
+Git Clone: Pega um repositório do GitHub e coloca no armazenamento local
+
+Git Branch: Mostra as ramificações existentes no repositório
+
+Git Checkout: Verifica em qual ramificação esta.
+
+Git Fech: Histórico de mudanças sem afetar o arquivo local.
+
+Git Pull: Histórico de mudanças e implementa no arquivo localas alterações contidas no repositório.
+
+Git Add: Insere no repositório local arquivos.
+
+Git Commit: Versiona as alterações feitas em um arquivo.
+
+Git Push: Insere no repositório do GitHub, as alterações feitas localmente.
+
+Questão 2:
+
+Git Pull faz dowload do repositório do GitHub com o histórico de mudanças e faz as implementações no código local, Git Fetch faz download apenas do histórico de mudanças 
